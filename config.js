@@ -2,8 +2,8 @@ gc1 = ''
 gc2 = ''
 gc3 = ''
 global.linkGC = ['https://chat.whatsapp.com/BDhvAxeGwFjGj10KdQMunR', ''] // ganti jadi group lu
-global.owner = ['6283805870343'] // Put your number here //owner eval
-global.kontak = ['6283805870343'] //Ketika ada yang ngetik #owner
+global.owner = ['6283188533207'] // Put your number here //owner eval
+global.kontak = ['6283188533207'] //Ketika ada yang ngetik #owner
 global.mods = [''] // Want some help?
 global.prems = ['0'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -41,7 +41,7 @@ xteamkey = 'KurrXd'
 //xteam        MIMINETBOT
 namaig = 'imbyu_ofc'
 namagithub = 'imbyu'
-kasihcaption = `© ByuBotz`
+kasihcaption = `© LangitBotz`
 namakontak1 = 'Developer ByuBotz'
 namakontak2 = ''
 
@@ -49,18 +49,18 @@ namakontak2 = ''
 
 // Sticker WM
 global.packname = 'Sticker By' // ganti aja
-global.author = 'ByuBotz' // ganti aja
+global.author = 'langitBotz' // ganti aja
 
 //yyy
 bc = 'ByuBotz' //AlyaaXd Broadcast
-footer = '\n© ByuBotz'
-namabot = 'ByuBotz'
-namalu = 'ByuOfc'
+footer = '\n© LangitBotz'
+namabot = 'LangitBotz'
+namalu = 'Langitz'
 
 
 // 
-global.watermark = '© ByuBotz By ByuOfc'
-global.wm = 'By ByuBotz'
+global.watermark = '© LangitBotz By Langit'
+global.wm = 'By LangitBotz'
 wait = '*_Sabar_*'
 global.wait = '*_Sabar_*'
 global.rpg = 'Fitur Rpg Dimatikan\nKetik *!enable* *rpg* untuk menggunakan fitur ini!'
